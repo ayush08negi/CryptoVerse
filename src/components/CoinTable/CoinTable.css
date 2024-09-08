@@ -1,0 +1,21 @@
+.coin-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 1rem;
+  }
+  
+  .coin-table th, .coin-table td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+  }
+  
+  .coin-table th {
+    background-color: #f4f4f4;
+    text-align: left;
+  }
+  
+  .coin-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
